@@ -1,0 +1,40 @@
+departments:
+  dep1:
+    salary: 1
+    employees:
+      - olga:
+          count: 4
+          job: accounting
+      - dmitry:
+          count: 3
+      - ivan:
+          count: 2
+  dep2:
+    salary: 3
+    employees:
+      - roman:
+          count: 4
+          job: lawer
+      - max:
+          count: 2
+          job: driver
+  dep3:
+    employees:
+      - ivan:
+          count: 1
+          job: builder
+      - nikolay:
+          count: 1
+          job: builder
+      - olga:
+          count: 1
+          job: lawer
+  dep4-5:
+    salary: 2
+    employees:
+      - julia:
+          count: 5
+          job: papers
+  dep6:
+    employees:
+      - igor:
